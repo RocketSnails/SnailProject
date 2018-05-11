@@ -34,6 +34,12 @@
             <artifactId>guava</artifactId>
             <version>25.0-jre</version>
         </dependency>
+        <dependency>
+            <groupId>ru.lanit</groupId>
+            <artifactId>SelenideTest</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>test</scope>
+        </dependency>
 
     </dependencies>
 
